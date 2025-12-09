@@ -247,7 +247,7 @@ Berikut adalah hasil pengujian API, ditampilkan dalam bentuk tabel dengan screen
 | 1 | <img src="./foto/1.HTTPStatusCode.png" width="350"> | **Referensi HTTP Status Code**<br>Digunakan sebagai acuan dalam memahami hasil response API. |
 | 2 | <img src="./foto/2.Gagal(KeyHilang).png" width="350"> | **Gagal — API Key Hilang**<br>Request tanpa header `x-api-key` ditolak → `401 Unauthorized`. |
 | 3 | <img src="./foto/3.Gagal(KeyPalsu).png" width="350"> | **Gagal — API Key Palsu**<br>API Key tidak cocok dengan database → `401 Unauthorized`. |
-| 4 | <img src="./foto/4.Sukses(KeyValid).png" width="350"> | **Sukses — API Key Valid**<br>API Key valid memberikan akses ke data produk → `200 OK`. |
+| 4 | <img src="./foto/4.Sukses(KeyValid.png" width="350"> | **Sukses — API Key Valid**<br>API Key valid memberikan akses ke data produk → `200 OK`. |
 
 ---
 
