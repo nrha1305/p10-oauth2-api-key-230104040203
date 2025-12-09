@@ -236,7 +236,6 @@ Response:
 ```
 
 ## 🧪 Uji Coba Postman — API Key & OAuth 2.0 (JWT)
-```
 Berikut adalah hasil pengujian API, ditampilkan dalam bentuk tabel dengan screenshot sesuai folder `./foto/`.
 
 ---
@@ -273,7 +272,7 @@ Berikut adalah hasil pengujian API, ditampilkan dalam bentuk tabel dengan screen
 | 12 | <img src="./foto/12.Update(Admin).png" width="350"> | **Update Produk (Admin)**<br>Admin melakukan update → `200 OK`. |
 | 13 | <img src="./foto/13.Delete(UserBiasa).png" width="350"> | **Delete Produk Gagal (User Biasa)**<br>User biasa tidak boleh delete → `403 Forbidden`. |
 | 14 | <img src="./foto/14.Delete(Admin).png" width="350"> | **Delete Produk Berhasil (Admin)**<br>Admin berhasil menghapus produk → `200 OK`. |
-```
+
 ---
 
 ### Kesimpulan Akhir
