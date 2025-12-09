@@ -236,7 +236,7 @@ Response:
 ```
 
 ## 🧪 Uji Coba Postman — API Key & OAuth 2.0 (JWT)
-```bash
+```
 Berikut adalah hasil pengujian API, ditampilkan dalam bentuk tabel dengan screenshot sesuai folder `./foto/`.
 
 ---
